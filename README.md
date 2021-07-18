@@ -5,7 +5,7 @@
     img{border:dotted;}
   html{text-align:center;}
     a{font-size:25px;}
-  </head>
+  </style> </head>
 <body>
 <br><br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKFAe-gF6cH_-Og0qjmrM6rjprVUktCDg1w&usqp=CAU"> <br><br>
