@@ -5,8 +5,8 @@
     img{border:dotted;height:350px;width:350px;}
   html{text-align:center;}
     a{font-size:30px;}
-    p{font-size:30px;text-align:center;font-family: 'Itim', cursive;}
-    h1{font-size:30px;text-align:center;font-family: 'Noto Sans JP', sans-serif;}
+    p{font-size:30px;text-align:center;font-family:'Noto Sans JP', sans-serif;}
+    h1{font-size:30px;text-align:center;font-family:'Itim', cursive; }
   </style> </head>
 <body>
 <br><br>
