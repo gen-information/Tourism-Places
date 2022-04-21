@@ -4,8 +4,8 @@
   <style>
     img{border:dotted;height:350px;width:350px;}
   html{text-align:center;}
-    a{font-size:30px;}
-    p{font-size:30px;text-align:justify;font-family:'Noto Sans JP', sans-serif;}
+    a{font-size:30px;align:center;}
+    p{font-size:25px;text-align:justify;font-family:'Noto Sans JP', sans-serif;}
     h1{font-size:30px;text-align:center;font-family:'Itim', cursive; }
   </style> </head>
 <body>
